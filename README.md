@@ -11,7 +11,7 @@
 
 ### Published news site excellent SEO test proof
 
-![image alt]()
+![image alt](https://github.com/amansaroj9616/AI-news-Summarized/blob/406e5066d144759e8c9eea3d27e2a575454631ca/seo.jpg)
 
 ### Proof
 view pdf()
