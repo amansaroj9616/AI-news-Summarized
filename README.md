@@ -14,7 +14,8 @@
 ![image alt](https://github.com/amansaroj9616/AI-news-Summarized/blob/406e5066d144759e8c9eea3d27e2a575454631ca/seo.jpg)
 
 ### Proof
-view pdf()
+
+![image alt](https://github.com/amansaroj9616/AI-news-Summarized/blob/f7887cfff32f084f77f6a1e41300627d61cdfdca/published_news.pdf)
 
 ### 🎯 Project Overview
 - Web crawling and data extraction from reliable news sources
