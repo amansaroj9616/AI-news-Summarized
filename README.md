@@ -4,6 +4,7 @@
 ## 🚀 QuickNews - Autonomous AI News Agent 🤖📰
 
 **QuickNews** is an intelligent AI agent that autonomously searches, summarizes, and publishes news articles. Built as an industry-ready application, it streamlines the process of gathering and publishing news content with zero human intervention.
+![QuickNews Header]("C:\Users\saroj\Downloads\ss1.png")
 
 ### 🎯 Project Overview
 - Web crawling and data extraction from reliable news sources
