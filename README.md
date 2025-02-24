@@ -33,8 +33,8 @@
 
 
 ### Simple Agent (WebSearch)
--In my opinion, the most basic Agent should at least be able to choose between one or two Tools and re-elaborate the output of the action to give the user a proper and concise answer. 
-![img alt]()
+- In my opinion, the most basic Agent should at least be able to choose between one or two Tools and re-elaborate the output of the action to give the user a proper and concise answer. 
+
 
 **Content Generation**
 - Employs extractive summarization techniques
