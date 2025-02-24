@@ -7,6 +7,15 @@
 
 ![image alt](https://github.com/amansaroj9616/AI-news-Summarized/blob/e1767482f53ceb59ca65fc289b0e7917c13b04a4/ss1.png)
 
+![image alt](https://github.com/amansaroj9616/AI-news-Summarized/blob/e18e6475f632c399fceb0284fc5ba3e36fc2571e/ss2.png)
+
+### Published news site excellent SEO test proof
+
+![image alt]()
+
+### Proof
+view pdf()
+
 ### 🎯 Project Overview
 - Web crawling and data extraction from reliable news sources
 - Intelligent content summarization and structuring
@@ -79,3 +88,10 @@ Feel free to fork the repo and submit pull requests. Open issues for major chang
 - Uses **newspaper3k**
 - Powered by **Streamlit**
 - Thanks to **Hashnode** for their GraphQL API
+
+
+  📞 Contact
+For any queries regarding the project, feel free to reach out:
+
+Email: amansaroj4518@gmail.com
+LinkedIn: https://www.linkedin.com/in/aman-saroj/
