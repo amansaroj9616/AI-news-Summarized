@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/dd11bb5a-4ec1-4447-a297-4db44515e382)
 ---
 
 ## 🚀 QuickNews - Autonomous AI News Agent 🤖📰
@@ -30,6 +30,11 @@
 - Uses DuckDuckGo API for fetching recent news
 - Implements `newspaper3k` for article parsing
 - Utilizes NLTK for NLP and summarization
+
+
+### Simple Agent (WebSearch)
+-In my opinion, the most basic Agent should at least be able to choose between one or two Tools and re-elaborate the output of the action to give the user a proper and concise answer. 
+![img alt]()
 
 **Content Generation**
 - Employs extractive summarization techniques
